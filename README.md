@@ -1,2 +1,2 @@
-# scirichon_echo
-scirichon_echo_doc
+# Initial page
+
