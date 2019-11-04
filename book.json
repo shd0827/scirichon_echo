@@ -1,0 +1,23 @@
+{
+    "title": "工作笔记",
+    "author": "east",
+    "language": "zh-hans",
+    "plugins": [
+        "code",
+        "github",
+        "tbfed-pagefooter"
+    ],
+    "pluginsConfig": {
+        "code": {
+            "copyButtons": false
+        },
+        "github": {
+            "url": "https://github.com/shd0827/scirichon_echo"
+        },
+        "tbfed-pagefooter":{
+            "copyright":"Copyright &copy east 2019",
+            "modify_label": "本书发布时间：2019-11-04",
+            "modify_format": "YYYY-MM-DD HH:mm:ss"
+        }
+    }
+}
